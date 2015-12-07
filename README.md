@@ -1,4 +1,5 @@
-# Auto Tag Version
+# Auto Tag Version [![Gem Version](https://badge.fury.io/rb/auto_tag_version.svg)](http://badge.fury.io/rb/auto_tag_version) [![Code Climate](https://codeclimate.com/github/rafaelbiriba/auto_tag_version/badges/gpa.svg)](https://codeclimate.com/github/rafaelbiriba/auto_tag_version) [![Travis](https://api.travis-ci.org/rafaelbiriba/auto_tag_version.svg?branch=master)](https://travis-ci.org/rafaelbiriba/auto_tag_version) [![Coverage Status](https://coveralls.io/repos/rafaelbiriba/auto_tag_version/badge.png?branch=master)](https://coveralls.io/r/rafaelbiriba/auto_tag_version?branch=master)
+
 Create/Update the application version file of your Rails app and automatically create the git tag.
 
 ## Prerequisite
