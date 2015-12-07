@@ -29,5 +29,6 @@ module TestAPP
   VERSION = 10.24.5
 end
 ```
+And them will commit this file and create a git tag. **(You need to push it manually!)**
 
 You can get the version number in your application as **"TestAPP::VERSION"**
