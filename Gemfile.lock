@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    auto_tag_version (1.0.0)
+    auto_tag_version (1.1.0)
       railties
 
 GEM
