@@ -34,3 +34,15 @@ end
 And the file will be automatically commited and the git tag created. **(You need to push it manually!)**
 
 You can access the version number of your application using **"TestAPP::VERSION"**
+
+## Contributing
+
+First of all, **thank you** for wanting to help!
+
+1. [Fork it](https://help.github.com/articles/fork-a-repo).
+2. Create a feature branch - `git checkout -b more_magic`
+3. Add tests and make your changes
+4. Check if tests are ok - `rake spec`
+5. Commit changes - `git commit -am "Added more magic"`
+6. Push to Github - `git push origin more_magic`
+7. Send a [pull request](https://help.github.com/articles/using-pull-requests)! :heart:
