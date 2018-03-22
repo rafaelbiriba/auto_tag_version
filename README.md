@@ -4,7 +4,7 @@ Create/Update the application version file of your Rails app and automatically c
 
 ## Prerequisite
 
-  - For now, only Rails application (Tested Rails 3 and 4)
+  - Rails application
   - *Gems support comming soon!*
 
 ## Installation
