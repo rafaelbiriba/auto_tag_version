@@ -5,8 +5,6 @@ task :autotag do
   elsif ENV["TAG"].blank?
     puts "TAG not found! USAGE: rake autotag TAG=0.0.0"
   else
-    AutoTagVersion.tag ENV["TAG"]
-    AutoTagVersion.create_version_file
-    AutoTagVersion.commit_and_create_tag
+    AutoTagVersion.tag!(ENV["TAG"])
   end
 end
